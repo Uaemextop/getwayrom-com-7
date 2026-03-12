@@ -1,0 +1,15 @@
+{
+  "url": "https://getwayrom.com/upload/sliders/543994ab73c859-c675-4770-b879-a51f0542e76e.jfif",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Content-Type": "application/octet-stream",
+    "Last-Modified": "Thu, 11 Sep 2025 19:05:45 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "123412",
+    "Date": "Thu, 12 Mar 2026 20:29:00 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+  }
+}

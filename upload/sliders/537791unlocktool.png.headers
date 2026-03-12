@@ -1,0 +1,17 @@
+{
+  "url": "https://getwayrom.com/upload/sliders/537791unlocktool.png",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Cache-Control": "public, max-age=604800",
+    "Expires": "Thu, 19 Mar 2026 20:29:00 GMT",
+    "Content-Type": "image/png",
+    "Last-Modified": "Sun, 12 Oct 2025 16:45:23 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "815528",
+    "Date": "Thu, 12 Mar 2026 20:29:00 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+  }
+}

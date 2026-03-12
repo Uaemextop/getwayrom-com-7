@@ -1,0 +1,16 @@
+{
+  "url": "https://getwayrom.com/upload/sliders/286703AMT.png",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Cache-Control": "public, max-age=604800",
+    "Expires": "Thu, 19 Mar 2026 20:29:02 GMT",
+    "Content-Type": "image/png",
+    "Last-Modified": "Sun, 12 Oct 2025 17:00:20 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "500747",
+    "Date": "Thu, 12 Mar 2026 20:29:02 GMT",
+    "Server": "LiteSpeed"
+  }
+}
