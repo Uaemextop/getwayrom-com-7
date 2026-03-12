@@ -1,0 +1,18 @@
+{
+  "url": "https://getwayrom.com/assets/fonts/fa-solid-900.svg",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Cache-Control": "public, max-age=604800",
+    "Expires": "Thu, 19 Mar 2026 20:28:25 GMT",
+    "Content-Type": "image/svg+xml",
+    "Last-Modified": "Sun, 07 Jul 2024 16:53:54 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Encoding": "br",
+    "Vary": "Accept-Encoding",
+    "Content-Length": "220130",
+    "Date": "Thu, 12 Mar 2026 20:28:25 GMT",
+    "Server": "LiteSpeed"
+  }
+}
