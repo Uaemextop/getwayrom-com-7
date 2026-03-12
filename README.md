@@ -10,4 +10,4 @@
 | Concurrency | auto workers |
 | Skip media files | true |
 | Run | #83 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
